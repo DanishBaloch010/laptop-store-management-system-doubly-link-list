@@ -10,5 +10,9 @@ Functionality of App : 	| Add Laptops | Delete Laptops | Sell Laptop
 			| Sort Products 
 			| See Number of Products.
 			
+# How this application works ?
+![image](https://user-images.githubusercontent.com/68731898/183959087-ced642ba-3f56-4002-a5db-d656bc42fc2e.png)
+
+			
 
 
