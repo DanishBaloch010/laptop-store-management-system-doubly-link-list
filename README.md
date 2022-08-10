@@ -15,3 +15,4 @@ Functionality of App : | Add Laptops | Delete Laptops | Sell Laptop
 ![image](https://user-images.githubusercontent.com/68731898/183958387-97f8cf93-b898-4b9d-816b-ebaab61ca72c.png)
 
 
+![image](https://user-images.githubusercontent.com/68731898/183958565-38c3b123-fedf-464b-8965-5c69ce208b1a.png)
